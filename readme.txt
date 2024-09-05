@@ -1,17 +1,1 @@
-Copyright Notice:
------------------
-The files within this zip file are copyrighted by Lazy Foo' Productions 2004-2023
-and may not be redistributed without written permission.
-
-This project is linked against:
-----------------------------------------
-Windows:
-SDL2
-SDL2main
-SDL2_image
-SDL2_ttf
-
-*nix:
-SDL2
-SDL2_image
-SDL2_ttf
+This game sucks, and doesn't work on my computer. Something about fonts not being loaded. If you can compile and run it, great. I just don't want to maintain this project anymore.
